@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter,Switch,Route} from 'react-router-dom';
 import Heder from './component/Header/Heder';
@@ -11,7 +10,7 @@ import About from './component/About/About';
 
 function App() {
   return (
-    <div className="App">
+    <div className="">
       <BrowserRouter>
         <Heder></Heder>
        <Switch>
