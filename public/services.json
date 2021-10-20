@@ -1,0 +1,40 @@
+[
+    {
+        "key": "1",
+        "name": "Diabetes",
+        "img": "https://i.ibb.co/gJ5yv68/diabetis.jpg",
+        "des": "Diabetes mellitus, commonly known as diabetes, is a metabolic disease that causes high blood sugar. The hormone insulin moves sugar from the blood into your cells to be stored or used for energy. With diabetes, your body either doesn’t make enough insulin or can’t effectively use the insulin it does make."
+    },
+   
+    
+    {
+        "key": "2",
+        "name": "Heart disease",
+        "img": "https://i.ibb.co/0j2Hh9J/hart.jpg",
+        "des": "A buildup of fatty plaques in your arteries, or atherosclerosis (ath-ur-o-skluh-ROE-sis) can damage your blood vessels and heart. Plaque buildup causes narrowed or blocked blood vessels that can lead to a heart attack, chest pain (angina) or strokeCoronary artery disease ."
+    },
+    {
+        "key": "3",
+        "name": "Kidneys",
+        "img": "https://i.ibb.co/Ctzmg9b/kedney-1.jpg",
+        "des": "The kidneys are a pair of bean-shaped organs on either side of your spine, below your ribs and behind your belly. Each kidney is about 4 or 5 inches long, roughly the size of a large fist. either side of your spine, below your ribs and behind your belly  chest pain (angina) or strokeCoronary artery disease ."
+    },
+    {
+        "key": "4",
+        "name": "medicine",
+        "img": "https://i.ibb.co/g6xsWjb/medicin.jpg",
+        "des": "Medicines can treat diseases and improve your health. If you are like most people, you need to take medicine at some point in your life. You may need to take medicine every day, or you may only need to take medicine once in a while. Either way, you want to make sure that your medicines are safe, and that they will help you get better."
+    },
+    {
+        "key": "5",
+        "name": "orthopedics",
+        "img": "https://i.ibb.co/ZJBsLGx/orthopaedic-1.jpg",
+        "des": "A person who specializes in orthopedics is known as an orthopedist. Orthopedists use both surgical and nonsurgical approaches to treat a variety of musculoskeletal issues, such as sports injuries, joint pain, and back problems. known as an orthopedist. Orthopedists use both surgical and nonsurgical."
+    },
+    {
+        "key": "6",
+        "name": "Liver Diseases",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEGKU5jK1VN7Z8K0MxheXU6XsECIZuJmhmyw&usqp=CAU",
+        "des": "Symptoms of liver disease can vary, but they often include swelling of the abdomen and legs, bruising easily, changes in the color of your stool and urine, and jaundice, or yellowing of the skin and eyes. Sometimes there are no symptoms. Tests such as imaging tests and liver function tests can check for liver damage and help to diagnose liver diseases."
+    }
+]
